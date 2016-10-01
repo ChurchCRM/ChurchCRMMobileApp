@@ -1,8 +1,8 @@
 
 {
-  "name": "My Ionic App",
-  "short_name": "My Ionic App",
-  "start_url": "index.html",
+  "name": "ChurchCRM",
+  "short_name": "ChurchCRM",
+  "start_url": "login.html",
   "display": "standalone",
   "icons": [{
     "src": "icon.png",
