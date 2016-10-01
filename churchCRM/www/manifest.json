@@ -2,7 +2,7 @@
 {
   "name": "ChurchCRM",
   "short_name": "ChurchCRM",
-  "start_url": "login.html",
+  "start_url": "templates/login.html",
   "display": "standalone",
   "icons": [{
     "src": "icon.png",
